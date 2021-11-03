@@ -27,6 +27,7 @@ Preferably, this would be a unit 0 or a unit 1 in an Introduction to Computer Sc
 
 ### Resources
 (include any links/books/readings to be used during this unit)
+https://www.helloruby.com/educators
 
 ### Lessons
 Total lenght: 2 Weeks
@@ -42,6 +43,9 @@ https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading04.htm?wcmmode=ed
 https://www.geeksforgeeks.org/the-evolution-of-programming-languages/ 
 
 #### In Class Assignment
+Build a computer from scratch - simulator
+https://www.pcworld.com/article/406184/meet-pc-building-simulator-a-diy-teaching-tool-that-could-be-the-novices-best-friend.html
+https://www.nytimes.com/wirecutter/blog/building-your-first-gaming-pc/
 
 #### Out Of Class Assignment
 
