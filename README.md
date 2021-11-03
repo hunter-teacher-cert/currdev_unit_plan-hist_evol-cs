@@ -41,7 +41,9 @@ https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading04.htm?wcmmode=ed
 5. How have computer languages changed over time? We might introduce Grace Hopper, the woman who invented Cobol.
 https://www.geeksforgeeks.org/the-evolution-of-programming-languages/ 
 
+####In Class Assignment
 
+####Out Of Class Assignment
 
 
 (list each lesson with main topic(s))
