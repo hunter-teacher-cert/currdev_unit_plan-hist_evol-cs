@@ -13,7 +13,13 @@ The purpose is to provide students with foundational skills and for them to see 
 There is a disconnect between students and past and present technology and how we got here. 
 Students have various exposures to computer education so this unit will help to build background knowledge. 
 
-Standards Referenced
+
+In addition, we believe that it is important for students to have a basic understanding of what happens at the machine level when they code. In a typical, basic coding class, students are all too eager to start pressing keys or moving blocks to create code, which is good enough when the goal is for students to just have fun with coding. However, as we turn the basic coding into a CS class, they need to envision the environment where their code actually executes the commands.  
+
+Preferably, this would be a unit 0 or a unit 1 in an Introduction to Computer Science (Creative Web) or (TEALS) at the high school level. Middle School students may not benefit from this unit due to their stage of intellectual development and inability to to think abstractly.  The unit should not take longer than a week of teaching followed by a few days when the students are assigned a project: to create a computer.
+
+
+### Standards Referenced
 (select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set)
 
 ### Tools Used
