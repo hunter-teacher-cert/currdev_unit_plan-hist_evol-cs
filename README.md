@@ -6,9 +6,9 @@ by Michele P and Eduardo L
 
 ### General Overview
 This is unit 0 or unit 1 for any computer science middle or high school class. 
+The proposed unit plan will be on the history/evolution of computers, computing languages, hardware, software, memory, processing, networking and basic keyboarding.  
 
 ### Motivation for Unit
-The proposed unit plan will be on the history/evolution of computers, computing languages, hardware, software, memory, processing, networking and basic keyboarding.    
 The purpose is to provide students with foundational skills and for them to see how the past, present and future are related and their roles as consumers and or producers of technology. 
 There is a disconnect between students and past and present technology and how we got here. 
 Students have various exposures to computer education so this unit will help to build background knowledge. 
